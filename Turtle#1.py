@@ -1,3 +1,5 @@
+#Frank Carter
+#10/11/2019
 import turtle
 import math
 
